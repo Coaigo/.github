@@ -1,2 +1,0 @@
-# .github
-Coaigo Organization Repo
